@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @David Scott
+- 👋 Hi, I’m @Dave
 
--I’m interested in art, physics, game design (still managing to resist the siren call to return to 40K), Spam and eggs, abandoned places, movies, noir, and I guess a lot of the typical geek stuff. And cars
+art, infosec, physics, game design, Spam and eggs, abandoned places, movies, noir, cars
 
 
 <!---
