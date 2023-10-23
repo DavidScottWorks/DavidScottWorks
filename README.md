@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dave
 
-art, infosec, physics, game design, Spam and eggs, abandoned places, movies, noir, cars
+art, cybersecurity, physics, game design, abandoned places, movies, noir, cars
 
 
 <!---
