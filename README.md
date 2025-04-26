@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Dave
-
 art, cybersecurity, physics, game design, abandoned places, movies, noir, cars
 
 
